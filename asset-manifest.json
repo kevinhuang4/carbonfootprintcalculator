@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/carbonfootprintcalculator/static/css/main.a1882ee4.chunk.css",
-    "main.js": "/carbonfootprintcalculator/static/js/main.aeeec79e.chunk.js",
-    "main.js.map": "/carbonfootprintcalculator/static/js/main.aeeec79e.chunk.js.map",
+    "main.css": "/carbonfootprintcalculator/static/css/main.0f14595e.chunk.css",
+    "main.js": "/carbonfootprintcalculator/static/js/main.fcfb4a36.chunk.js",
+    "main.js.map": "/carbonfootprintcalculator/static/js/main.fcfb4a36.chunk.js.map",
     "runtime-main.js": "/carbonfootprintcalculator/static/js/runtime-main.9135cc8a.js",
     "runtime-main.js.map": "/carbonfootprintcalculator/static/js/runtime-main.9135cc8a.js.map",
     "static/js/2.ca66f19f.chunk.js": "/carbonfootprintcalculator/static/js/2.ca66f19f.chunk.js",
     "static/js/2.ca66f19f.chunk.js.map": "/carbonfootprintcalculator/static/js/2.ca66f19f.chunk.js.map",
     "index.html": "/carbonfootprintcalculator/index.html",
-    "static/css/main.a1882ee4.chunk.css.map": "/carbonfootprintcalculator/static/css/main.a1882ee4.chunk.css.map",
+    "static/css/main.0f14595e.chunk.css.map": "/carbonfootprintcalculator/static/css/main.0f14595e.chunk.css.map",
     "static/js/2.ca66f19f.chunk.js.LICENSE.txt": "/carbonfootprintcalculator/static/js/2.ca66f19f.chunk.js.LICENSE.txt",
-    "static/media/index.css": "/carbonfootprintcalculator/static/media/bg-pc.b79453a9.jpeg"
+    "static/media/index.css": "/carbonfootprintcalculator/static/media/bg-pc.eba2e7ad.JPG"
   },
   "entrypoints": [
     "static/js/runtime-main.9135cc8a.js",
     "static/js/2.ca66f19f.chunk.js",
-    "static/css/main.a1882ee4.chunk.css",
-    "static/js/main.aeeec79e.chunk.js"
+    "static/css/main.0f14595e.chunk.css",
+    "static/js/main.fcfb4a36.chunk.js"
   ]
 }
